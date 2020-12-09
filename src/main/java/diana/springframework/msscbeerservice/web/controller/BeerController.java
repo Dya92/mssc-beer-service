@@ -1,9 +1,7 @@
 package diana.springframework.msscbeerservice.web.controller;
 
-import diana.springframework.msscbeerservice.repositories.BeerRepository;
-import diana.springframework.msscbeerservice.web.mappers.BeerMapper;
 import diana.springframework.msscbeerservice.web.model.BeerDto;
-import diana.springframework.services.BeerService;
+import diana.springframework.msscbeerservice.services.BeerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

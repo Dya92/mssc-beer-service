@@ -1,11 +1,14 @@
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\bootstrap\BeerLoader.java
-D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\MsscBeerServiceApplication.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\mappers\DateMapper.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\repositories\BeerRepository.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\mappers\BeerMapper.java
-D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\controller\MvcExceptionHandler.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\model\BeerStyleEnum.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\controller\BeerController.java
+D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\services\BeerServiceImpl.java
+D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\model\BeerPagedList.java
+D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\MsscBeerServiceApplication.java
+D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\services\BeerService.java
+D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\controller\MvcExceptionHandler.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\model\BeerDto.java
 D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\domain\Beer.java
-D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\model\BeerPagedList.java
+D:\Proiecte Java\IdeaProjects\mssc-beer-service\src\main\java\diana\springframework\msscbeerservice\web\controller\NotFoundException.java

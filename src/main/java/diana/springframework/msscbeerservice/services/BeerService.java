@@ -1,4 +1,4 @@
-package diana.springframework.services;
+package diana.springframework.msscbeerservice.services;
 
 import diana.springframework.msscbeerservice.web.model.BeerDto;
 

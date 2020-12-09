@@ -1,6 +1,7 @@
 diana\springframework\msscbeerservice\domain\Beer.class
 diana\springframework\msscbeerservice\MsscBeerServiceApplication.class
 diana\springframework\msscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
+diana\springframework\msscbeerservice\services\BeerService.class
 diana\springframework\msscbeerservice\web\mappers\DateMapper.class
 diana\springframework\msscbeerservice\web\model\BeerDto.class
 diana\springframework\msscbeerservice\web\controller\BeerController.class
@@ -10,5 +11,7 @@ diana\springframework\msscbeerservice\domain\Beer$BeerBuilder.class
 diana\springframework\msscbeerservice\web\mappers\BeerMapper.class
 diana\springframework\msscbeerservice\web\controller\MvcExceptionHandler.class
 diana\springframework\msscbeerservice\repositories\BeerRepository.class
+diana\springframework\msscbeerservice\services\BeerServiceImpl.class
 diana\springframework\msscbeerservice\web\model\BeerStyleEnum.class
 diana\springframework\msscbeerservice\bootstrap\BeerLoader.class
+diana\springframework\msscbeerservice\web\controller\NotFoundException.class

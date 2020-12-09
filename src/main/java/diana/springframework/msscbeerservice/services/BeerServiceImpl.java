@@ -1,4 +1,4 @@
-package diana.springframework.services;
+package diana.springframework.msscbeerservice.services;
 
 import diana.springframework.msscbeerservice.domain.Beer;
 import diana.springframework.msscbeerservice.repositories.BeerRepository;
